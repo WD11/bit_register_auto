@@ -43,7 +43,7 @@ python bit_register_auto.py
 
 ## 关于配置文件
 
-由于大家的的个人信息都一样，因此大家通过配置表的方式来将自己的信息保存在本地，具体
+由于大家的的个人信息都不一样，因此大家通过配置表的方式来将自己的信息保存在本地，具体
 的配置信息获取途径如下：
 
 1. 下载fiddler：https://www.telerik.com/download/fiddler 填email地址然后点download。
