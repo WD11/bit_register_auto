@@ -47,7 +47,7 @@ python bit_register_auto.py
 的配置信息获取途径如下：
 
 1. 下载fiddler：https://www.telerik.com/download/fiddler 填email地址然后点download。
-2. 进入选课界面
+2. 进入签到界面
 3. 打开fiddler
 4. 登录签到网站，https://jinshuju.net/f/OXacm8，填好个人信息，点击提交
 5. 这时候fiddler里会多一条记录，URL地址应该是：https://jinshuju.net/f/OXacm8
